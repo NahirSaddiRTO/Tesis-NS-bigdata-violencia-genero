@@ -17,6 +17,8 @@ El trabajo explora cómo las técnicas de Big Data y modelos predictivos pueden 
 
 3. **Marco de Trabajo Propuesto**  
    Describe el diseño metodológico, el proceso de recolección de datos y el análisis exploratorio (contenido reflejado en el código del capítulo 3).
+   El informe interactivo en Power BI, se puede ver siguiendo este link: 
+   https://app.powerbi.com/reportEmbed?reportId=4d65e609-a72a-49f1-84a2-92f326ae859a&autoAuth=true&ctid=9c691607-ee0c-4ec3-8e1e-d68db427e72c
 
 4. **Caso de Estudio y Modelo Predictivo**  
    Presenta la aplicación del modelo de clasificación (Random Forest), junto con técnicas de balanceo (SMOTE), y la interpretación de resultados (contenido reflejado en el código del capítulo 4).
