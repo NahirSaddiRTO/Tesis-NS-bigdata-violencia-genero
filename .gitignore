@@ -1,5 +1,5 @@
 # Ignorar archivos de datos (si no deseas subir grandes archivos CSV)
-*.csv
+#*.csv
 
 # Ignorar archivos de notebooks de Jupyter con el historial de ejecución
 .ipynb_checkpoints/
