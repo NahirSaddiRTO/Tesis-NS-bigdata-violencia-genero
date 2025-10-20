@@ -26,21 +26,21 @@ El trabajo explora cómo las técnicas de Big Data, análisis exploratorio, limp
 
 ## 📂 Estructura del Repositorio
 
-├── capitulo3_analisis_exploratorio_analisis.ipynb
-├── capitulo3_procesamiento_limpieza.ipynb
-├── capitulo4_clustering.ipynb
-├── datos_nuevo/
-│   ├── originales/
-│   │   ├── intervenciones_domiciliarias.csv
-│   │   ├── llamados_atendidos.csv
-│   │   ├── linea144_20.csv
-│   │   ├── linea144_21.csv
-│   │   ├── linea144_22.csv
-│   │   └── linea144_23.csv
-│   ├── (archivos generados luego de la limpieza)
-│   └── (pueden eliminarse, ya que se regeneran al ejecutar los notebooks)
-├── requerimientos.txt
-└── README.md
+capitulo3_analisis_exploratorio_analisis.ipynb
+capitulo3_procesamiento_limpieza.ipynb
+capitulo4_clustering.ipynb
+datos_nuevo/
+├── originales/
+│ ├── intervenciones_domiciliarias.csv
+│ ├── llamados_atendidos.csv
+│ ├── linea144_20.csv
+│ ├── linea144_21.csv
+│ ├── linea144_22.csv
+│ └── linea144_23.csv
+├── (archivos generados luego de la limpieza)
+└── (pueden eliminarse, ya que se regeneran al ejecutar los notebooks)
+requerimientos.txt
+README.md
 
 ## 🧠 Contenido de los Notebooks
 
